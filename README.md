@@ -1,5 +1,5 @@
 - I’m @ceskim
-- Mainly a graphics person. A lot of my work was done under massive pressure from Hack-A-Thons, so don't expect anything incredibly polished or perfect. I'll rip out some case studies in the near future.
+- Mainly a graphics person
 - How to reach me: skim#0615 or seeukim@proton.me
 
 <!---
