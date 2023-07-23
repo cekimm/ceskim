@@ -1,6 +1,6 @@
 - I’m @ceskim
 - Mainly a graphics person
-- How to reach me: skim#0615 or seeukim@proton.me
+- How to reach me: cekimm or seeukim@proton.me
 
 <!---
 ceskim/ceskim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
